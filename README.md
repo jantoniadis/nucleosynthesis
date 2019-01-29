@@ -13,9 +13,11 @@ Welcome to astro2042, a course on nucleosynthesis and the chemical evolution of 
 
 
 ### Bibliography 
-1. [PAGEL] B.E.J. Pagel, Nucleosynthesis and Chemical  Evolution of  Galaxies, 1997, Cambridge University Press, ISBN 0-521 55958-8.
-2. [CLAYTON] D.D. Clayton, Principles of Stellar Evolution and Nucleosynthesis, 1968, University of Chicago Press, ISBN 0-226 10953-4
-3. [ILIADIS] C. Iliadis, Nuclear Physics of Stars, 2005, Wiley, ISBN 0-978-3-527-33648-7
+1. Lecture notes by N. Langer 
+
+2. [PAGEL] B.E.J. Pagel, Nucleosynthesis and Chemical  Evolution of  Galaxies, 1997, Cambridge University Press, ISBN 0-521 55958-8.
+3. [CLAYTON] D.D. Clayton, Principles of Stellar Evolution and Nucleosynthesis, 1968, University of Chicago Press, ISBN 0-226 10953-4
+4. [ILIADIS] C. Iliadis, Nuclear Physics of Stars, 2005, Wiley, ISBN 0-978-3-527-33648-7
 
 
 
