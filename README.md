@@ -41,11 +41,15 @@ The setup of this class is as follows: in the lectures, it is assumed that you w
 
 
 
-| Chapter                        |      Lecture          | E-mail questions by  |
+| Chapter                        |      Lecture        | E-mail questions by  |
 | -------------                  |  :-------------:    |                -----:|
-| Intro                          |      April 12        |                      |
-| 2: Thermonuclear reactions     | centered      |   $12 |
-| zebra stripes | are neat       |    $1 |
+| Intro                          |      TBD       |              TBD          |
+| 2: Thermonuclear reactions     |      TBD       |              TBD          |
+| 3: Big Bang Nucleosynthesis	   |    TBD         |              TBD          |
+| 4: Hydrogen burning       	   |    TBD         |              TBD          |
+| 4: CNO, NeNa, MgAl cycles       |    TBD        |              TBD          |
+| 4: Advanced burnig cycles       |    TBD        |              TBD          |
+| 5.1: s-process                  |    TBD        |              TBD          |
 
 
 
