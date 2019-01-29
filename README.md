@@ -34,7 +34,7 @@ These notes provide a brief and concice summary of the concepts covered in the f
 
 We will also discuss some topics from: 
 
-4. [ILIADIS] C. Iliadis, Nuclear Physics of Stars, 2005, Wiley, ISBN 0-978-3-527-33648-7
+* [ILIADIS] C. Iliadis, Nuclear Physics of Stars, 2005, Wiley, ISBN 0-978-3-527-33648-7
 
 
 #### Further reading
