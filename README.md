@@ -22,7 +22,7 @@ Welcome to astro2042, a course on nucleosynthesis and the chemical evolution of 
 
 
 ### Bibliography 
-The powerpoint presentations discussed in the class are available in the table below. I will try my best to upload the slides at least two days before the Thursday lectures. 
+The powerpoint presentations discussed in the class are available in the table below. I will try my best to upload the slides at least two days before the Thursday lectures. You can also fork the entire github rep by following the [View on Github] button above. 
 
 The lectures will follow the material provided in the: 
 1. [Lecture notes by N. Langer](https://astro.uni-bonn.de/~nlanger/siu_web/nucscript/Nucleo.pdf)
