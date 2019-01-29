@@ -25,12 +25,12 @@ Welcome to astro2042, a course on nucleosynthesis and the chemical evolution of 
 The powerpoint presentations discussed in the class are available in the table below. I will try my best to upload the slides at least two days before the Thursday lectures. You can also fork the entire github rep by following the [View on Github] button above. 
 
 The lectures will follow the material provided in the: 
-1. [Lecture notes by N. Langer](https://astro.uni-bonn.de/~nlanger/siu_web/nucscript/Nucleo.pdf)
+* [Lecture notes by N. Langer](https://astro.uni-bonn.de/~nlanger/siu_web/nucscript/Nucleo.pdf)
 
 These notes provide a brief and concice summary of the concepts covered in the following books: 
 
-2. [PAGEL] B.E.J. Pagel, Nucleosynthesis and Chemical  Evolution of  Galaxies, 1997, Cambridge University Press, ISBN 0-521 55958-8.
-3. [CLAYTON] D.D. Clayton, Principles of Stellar Evolution and Nucleosynthesis, 1968, University of Chicago Press, ISBN 0-226 10953-4
+* [PAGEL] B.E.J. Pagel, Nucleosynthesis and Chemical  Evolution of  Galaxies, 1997, Cambridge University Press, ISBN 0-521 55958-8.
+* [CLAYTON] D.D. Clayton, Principles of Stellar Evolution and Nucleosynthesis, 1968, University of Chicago Press, ISBN 0-226 10953-4
 
 We will also discuss some topics from: 
 
@@ -38,7 +38,7 @@ We will also discuss some topics from:
 
 
 #### Further reading
-5. [K. Nomoto, C. Kobayashi & N. Tominaga, Nucleosynthesis in Stars and the Chemical Enrichment of Galaxies, ARAA, 2013](https://www.annualreviews.org/doi/pdf/10.1146/annurev-astro-082812-140956)
+* [K. Nomoto, C. Kobayashi & N. Tominaga, Nucleosynthesis in Stars and the Chemical Enrichment of Galaxies, ARAA, 2013](https://www.annualreviews.org/doi/pdf/10.1146/annurev-astro-082812-140956)
 
 
 
