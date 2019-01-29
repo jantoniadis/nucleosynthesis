@@ -1,9 +1,14 @@
 ## Course overview 
 
-
-
 Welcome to astro2042, a course on nucleosynthesis and the chemical evolution of galaxies! 
 
+#### Goal 
+> To understand the origin and distribution of isotopes in the Universe
+
+
+#### Bibliography 
+1. B.E.J. Pagel, Nucleosynthesis  and Chemical  Evolution of  Galaxies, 1997, CambridgeUniversity Press, ISBN 0 521 55958 8.
+2. D.D. Clayton,Principles of Stellar Evolution and Nucleosynthesis, 1968, University ofChicago Press, ISBN 0 226 10953 4
 
 ### Lecture term: April 11 - July 11, 2019
 
