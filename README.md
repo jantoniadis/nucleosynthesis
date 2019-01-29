@@ -20,7 +20,9 @@ The exercise class is a compulsory part of the course
 
 
 ### Bibliography 
-1. Lecture notes by N. Langer 
+THe powerpoint presentations discussed in the class are available in the table below 
+
+1. [Lecture notes by N. Langer](https://astro.uni-bonn.de/~nlanger/siu_web/nucscript/Nucleo.pdf)
 2. [PAGEL] B.E.J. Pagel, Nucleosynthesis and Chemical  Evolution of  Galaxies, 1997, Cambridge University Press, ISBN 0-521 55958-8.
 3. [CLAYTON] D.D. Clayton, Principles of Stellar Evolution and Nucleosynthesis, 1968, University of Chicago Press, ISBN 0-226 10953-4
 4. [ILIADIS] C. Iliadis, Nuclear Physics of Stars, 2005, Wiley, ISBN 0-978-3-527-33648-7
@@ -37,7 +39,7 @@ The setup of this class is as follows: in the lectures, it is assumed that you w
 
 | Chapter                        |      Lecture        | E-mail questions by  |
 | -------------                  |  :-------------:    |                -----:|
-| Intro                          |      TBD       |              TBD          |
+| [Intro](https://raw.githubusercontent.com/jantoniadis/WDSpec/master/3Dcorrections.py)       |      TBD       |              TBD          |
 | 2: Thermonuclear reactions     |      TBD       |              TBD          |
 | 3: Big Bang Nucleosynthesis	   |    TBD         |              TBD          |
 | 4: Hydrogen burning       	   |    TBD         |              TBD          |
