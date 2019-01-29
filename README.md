@@ -33,3 +33,14 @@ The setup of this class is as follows: in the lectures, it is assumed that you w
 ### Times: Fri 9:00-10:00 and Fri 11:00-12:00 
 ### Location: AIfA Bonn , Rooms 0.006/0.008 
 ### The exercise class is a compulsory part of the course. 
+
+
+
+| Chapter                        |      Lecture          | E-mail questions by  |
+| -------------                  |  :-------------:    |                -----:|
+| Intro                          |      April 12        |                      |
+| 2: Thermonuclear reactions     | centered      |   $12 |
+| zebra stripes | are neat       |    $1 |
+
+
+
