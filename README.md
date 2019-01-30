@@ -53,9 +53,9 @@ You need to email your questions before Wednesday 13:00 to the tutors  so that t
 In your email, please use "NucSyn" as subject, and mention at the beginning of your question the corresponding subsection of the lecture notes.
 
 The final grade will be calculated as follows: 
-* 25% questions and attendance in lectures and excercise class
-* 25% exercises 
-* 50% paper presentations 
+* 25% -- questions and attendance in lectures and excercise class
+* 25% -- exercises 
+* 50% -- paper presentations 
 
 Your presence in the lectures, and in the excercise class, is also a requirement to earn the credit points for this class. 
 
