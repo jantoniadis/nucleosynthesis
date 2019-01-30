@@ -53,8 +53,8 @@ The setup of this class is as follows: in the lectures, it is assumed that you w
 
 | Chapter                        |      Lecture        | E-mail questions by  |
 | -------------                  |  :-------------:    |                -----:|
-| Intro       |      [April 12](https://raw.githubusercontent.com/jantoniadis/WDSpec/master/3Dcorrections.py)      |            -          |
-| 2: Thermonuclear reactions     |      TBD       |              TBD          |
+| Intro       |      [April 12]      |           -          |
+| 2: Thermonuclear reactions     |      TBD       |              TBD          
 | 3: Big Bang Nucleosynthesis	   |    TBD         |              TBD          |
 | 4: Hydrogen burning       	   |    TBD         |              TBD          |
 | 4: CNO, NeNa, MgAl cycles       |    TBD        |              TBD          |
@@ -63,4 +63,4 @@ The setup of this class is as follows: in the lectures, it is assumed that you w
 
 
 #### Paper presentations 
-
+Each student is expected to read a recent research paper on nucleosynthesis  and present the results in a 15' presentation (~10' + 5' for questions). Please send 
