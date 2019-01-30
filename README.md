@@ -68,7 +68,7 @@ Each student is expected to give a presentation of 15 minutes (10' + 5' for ques
 
 | Chapter                        |      Lecture        | E-mail questions by  |
 | -------------                  |  :-------------:    |                -----:|
-| Intro       |      [April 12]      |           -          |
+| [Intro](https://github.com/jantoniadis/nucleosynthesis/presentations/Nuc_Lecture1_Intro.pdf) |      April 12      |  -|
 | 2: Thermonuclear reactions     |      TBD       |              TBD          
 | 3: Big Bang Nucleosynthesis	   |    TBD         |              TBD          |
 | 4: Hydrogen burning       	   |    TBD         |              TBD          |
