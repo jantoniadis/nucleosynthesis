@@ -7,6 +7,7 @@ Welcome to astro858, a course on nucleosynthesis and the chemical evolution of g
  
  
 ![The remnant of SN1987A; Image by HST](https://spacetelescope.org/static/archives/images/screen/opo1030a.jpg)
+Remnant of SN1987A imaged by HST
  
 
 ### Lecture term: April 11 - July 11, 2019
