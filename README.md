@@ -63,4 +63,4 @@ The setup of this class is as follows: in the lectures, it is assumed that you w
 
 
 #### Paper presentations 
-Each student is expected to read a recent research paper on nucleosynthesis  and present the results in a 15' presentation (~10' + 5' for questions). Please send 
+Each student is expected to give a presentation of 15 minutes (10' + 5' for questions) to discuss a recent research paper on a topic in nucleosynthesis. Please send the details of the paper you would like to present to janton@mpifr.de by May 20. A list of suggested papers is available [here](ui.adsabs.harvard.edu/#/public-libraries/srWK-pAGTZ-D1fpyllBK3g). Please check the library description to see if a paper has already been chosen 
