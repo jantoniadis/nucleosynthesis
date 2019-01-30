@@ -1,9 +1,12 @@
 ### Course overview 
 
-Welcome to astro2042, a course on nucleosynthesis and the chemical evolution of galaxies! 
+Welcome to astro858, a course on nucleosynthesis and the chemical evolution of galaxies! 
 
 ### Goal 
  * To understand the origin and distribution of isotopes in the Universe
+ 
+ 
+![The remnant of SN1987A; Image by HST](https://spacetelescope.org/static/archives/images/screen/opo1030a.jpg)
  
 
 ### Lecture term: April 11 - July 11, 2019
