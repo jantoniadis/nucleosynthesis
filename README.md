@@ -10,16 +10,16 @@ Welcome to astro858, a course on nucleosynthesis and the chemical evolution of g
 Remnant of SN1987A imaged by HST
  
 
-### Lecture term: April 11 - July 11, 2019
+### Lecture term: April  - July , 2019
 
-* Times: Thu 11:15-12:45 
+* Times: TBA 
 * Location: AIfA Bonn , Room 0.008 
 * Lectures by John Antoniadis (janton at mpifr .de)
 
 
-### Exercise class: April 20 - July 13, 2017
+### Exercise class: May - July, 2019
 
-* Times: Fri 9:00-10:00 and Fri 11:00-12:00 
+* Times: TBA 
 * Location: AIfA Bonn; Rooms 0.006/0.008 
 * The exercise class is a compulsory part of the course
 * Tutors: TBD 
