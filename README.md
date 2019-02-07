@@ -47,13 +47,13 @@ We will also discuss some topics from:
 
 
 #### Evaluation and course requirements 
-The setup of this class is as follows: in the lectures, it is assumed that you worked through the corresponding chapter of the day (see table below) beforehand. During the lecture, we will discuss the most relevant topics of the lectures, and the most relevant questions you have about this. 
+The setup of this class is as follows: in the lectures, it is assumed that you worked through the corresponding chapter of the day (see table below) beforehand. During the lecture, we will discuss the most relevant topics of the lectures, and the most relevant questions you have about the lecture topic. 
 
 You need to email your questions before Wednesday 13:00 to the tutors  so that they can be considered for the lectures. 
 In your email, please use "NucSyn" as subject, and mention at the beginning of your question the corresponding subsection of the lecture notes.
 
 The final grade will be calculated as follows: 
-* 25% -- questions and attendance in lectures and excercise class
+* 25% -- questions and attendance in lectures and excercise classes
 * 25% -- exercises 
 * 50% -- paper presentations 
 
