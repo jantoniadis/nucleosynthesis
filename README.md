@@ -1,6 +1,6 @@
 ### Course overview 
 
-Welcome to astro858, a course on nucleosynthesis and the chemical evolution of galaxies! 
+Welcome to astro858, a course on nucleosynthesis! 
 
 ### Goal 
  * To understand the origin and distribution of isotopes in the Universe
