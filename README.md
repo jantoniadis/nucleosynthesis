@@ -17,7 +17,7 @@ Remnant of SN1987A imaged by HST
 * Lectures by John Antoniadis (janton at mpifr .de)
 
 
-### Exercise class: May - July, 2019
+### Exercise classes: May - July, 2019
 
 * Times: TBA 
 * Location: AIfA Bonn; Rooms 0.006/0.008 
