@@ -73,7 +73,7 @@ Each student is expected to give a presentation of 15 minutes (10' + 5' for ques
 | 3: Big Bang Nucleosynthesis	   |    TBD         |              TBD          |
 | 4: Hydrogen burning       	   |    TBD         |              TBD          |
 | 4: CNO, NeNa, MgAl cycles       |    TBD        |              TBD          |
-| 4: Advanced burnig cycles       |    TBD        |              TBD          |
+| 4: Advanced burning cycles       |    TBD        |              TBD          |
 | 5.1: s-process                  |    TBD        |              TBD          |
 | 5.2: r-process                  |    TBD        |              TBD          |
 | 5.2: Core collapse supernovae and p-process                  |    TBD        |     TBD          |
