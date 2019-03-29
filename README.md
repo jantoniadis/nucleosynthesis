@@ -10,19 +10,19 @@ Welcome to astro858, a course on nucleosynthesis!
 Remnant of SN1987A imaged by HST
  
 
-### Lecture term: April  - July , 2019
+### Lecture term: April 25  - July 4, 2019
 
-* Times: TBA 
+* Times: Thursday 11:00 - 13:00  
 * Location: AIfA Bonn , Room 0.008 
 * Lectures by John Antoniadis (janton at mpifr .de)
 
 
-### Exercise classes: May - July, 2019
+### Exercise classes: May 3 - July 11, 2019
 
-* Times: TBA 
+* Times: Friday 10:00-11:00/11:00-12:00 
 * Location: AIfA Bonn; Rooms 0.006/0.008 
 * The exercise class is a compulsory part of the course
-* Tutors: TBD 
+* Tutors: David Aguilera Dena, Ben Hastings  
 
 
 ### Bibliography 
@@ -68,18 +68,20 @@ Each student is expected to give a presentation of 15 minutes (10' + 5' for ques
 
 | Chapter                        |      Lecture        | E-mail questions by  |
 | -------------                  |  :-------------:    |                -----:|
-| Intro |      TBD      |  -|
-| 2: Thermonuclear reactions     |      TBD       |              TBD          
-| 3: Big Bang Nucleosynthesis	   |    TBD         |              TBD          |
-| 4: Hydrogen burning       	   |    TBD         |              TBD          |
-| 4: CNO, NeNa, MgAl cycles       |    TBD        |              TBD          |
-| 4: Advanced burning cycles       |    TBD        |              TBD          |
-| 5.1: s-process                  |    TBD        |              TBD          |
-| 5.2: r-process                  |    TBD        |              TBD          |
-| 5.2: Core collapse supernovae and p-process                  |    TBD        |     TBD          |
-| 6: Thermonuclear supernovae      |    TBD        |     TBD          |
-| 7: Cosmic ray nucleosynthesis   |    TBD        |         TBD          |
-| Student preesntations  - 1  |    TBD        |              -          |
-| Student preesntations  - 2                |    TBD        |              -          |
+| Intro                          |      April 18       |  -                   |
+| 2: Thermonuclear reactions     |      April 25       |              April 23|         
+| 3: Big Bang Nucleosynthesis	   |    May 2            |              April 30|
+| 4: Hydrogen burning       	    |    May 7            |              May 9   |
+| 4: CNO, NeNa, MgAl cycles      |    May 16           |          May 15      |
+| 4: Advanced burning cycles     |    May 23           |          May 21      |
+| 5.1: s-process                 |    June 6           |            June 4    |
+| 5.2: r-process                 |    June 13          |             June 11  |
+| Student preesntations  - 1     |    June 21          |         -            |
+| Student preesntations  - 2     |    June 27          |        -             |
+| 5.2: Core collapse supernovae and p-process          |    July 4  | July 2  |
+| 6/7: Thermonuclear supernovae/Spalation processes    |    July 11 | July 9  |
+
+
+
 
 
