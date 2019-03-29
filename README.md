@@ -50,7 +50,7 @@ We will also discuss some topics from:
 The setup of this class is as follows: in the lectures, it is assumed that you worked through the corresponding chapter of the day  beforehand (see schedule below). During the lecture, we will discuss the most relevant topics of the lectures, and the most relevant questions you have about the lecture topic. 
 
 You need to email your questions before Wednesday 13:00 to the tutors  so that they can be considered for the lectures. 
-In your email, please use "NucSyn" as subject, and mention at the beginning of your question the corresponding subsection of the lecture notes.
+In your email, please include "NucSyn" in the subject, and mention at the beginning of your question the corresponding subsection of the lecture notes (or book page).
 
 The final grade will be calculated as follows: 
 * 25% -- questions and attendance in lectures and excercise classes
@@ -60,7 +60,7 @@ The final grade will be calculated as follows:
 Your presence in the lectures, and in the excercise class, is also a requirement to earn the credit points for this class. 
 
 #### Paper presentations 
-Each student is expected to give a presentation of 15 minutes (10' + 5' for questions) to discuss a recent research paper on a topic in nucleosynthesis. Please e-mail your preference to janton [at] mpifr.de by May 20. A list of suggested papers is available [here](https://ui.adsabs.harvard.edu/#user/libraries/srWK-pAGTZ-D1fpyllBK3g). Please check the library description to see if a paper has already been chosen 
+Each student is expected to give a 15 min presentation (10' + 5' for questions) on a recent research paper on a topic in nucleosynthesis. Please e-mail your preference to janton [at] mpifr.de by May 20. A list of suggested papers is available [here](https://ui.adsabs.harvard.edu/#user/libraries/srWK-pAGTZ-D1fpyllBK3g). Please check the library description to see if a paper has already been chosen 
 
 #### Schedule  
 
