@@ -3,7 +3,7 @@
 Welcome to astro858, a course on nucleosynthesis! 
 
 ### Goal 
- * To understand the origin and distribution of isotopes in the Universe
+ * To undestand the chemical composition of the universe and its evolution in time and space 
  
  
 ![The remnant of SN1987A; Image by HST](https://spacetelescope.org/static/archives/images/screen/opo1030a.jpg)
