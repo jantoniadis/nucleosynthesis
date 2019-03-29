@@ -31,7 +31,7 @@ The powerpoint presentations discussed in the class are available in the table b
 The lectures will follow the material provided in the: 
 * [Lecture notes by N. Langer](https://astro.uni-bonn.de/~nlanger/siu_web/nucscript/Nucleo.pdf)
 
-These notes provide a brief and concice summary of the concepts covered in the following books: 
+These notes provide a brief and concise summary of the concepts covered in the following books: 
 
 * [[PAGEL] B.E.J. Pagel, Nucleosynthesis and Chemical  Evolution of  Galaxies, 2009, Second edition, Cambridge University Press, ISBN 978-0-521-84030-9](https://books.google.de/books?id=5z4_nJMRZEwC&pg=PA444&dq=B.E.J.+Pagel,+Nucleosynthesis+and+Chemical++Evolution+of++Galaxies&hl=en&sa=X&ved=0ahUKEwiLl7WX7ZXgAhWFDCwKHZAbCkcQ6wEIKTAA#v=onepage&q&f=false)
 * [[CLAYTON] D.D. Clayton, Principles of Stellar Evolution and Nucleosynthesis, 1968, University of Chicago Press, ISBN 0-226 10953-4](https://books.google.de/books?id=8HSGFThnbvkC&printsec=frontcover&dq=D.D.+Clayton,+Principles+of+Stellar+Evolution+and+Nucleosynthesis&hl=en&sa=X&ved=0ahUKEwjO2aj47JXgAhWNhaYKHcwbABYQ6wEIKTAA#v=onepage&q&f=false)
@@ -47,9 +47,9 @@ We will also discuss some topics from:
 
 
 #### Evaluation and course requirements 
-The setup of this class is as follows: in the lectures, it is assumed that you worked through the corresponding chapter of the day  beforehand (see schedule below). During the lecture, we will discuss the most relevant topics of the lectures, and the most relevant questions you have about the lecture topic. 
+The setup of this class is as follows: in the lectures, it is assumed that you worked through the corresponding chapter of the day  beforehand (see schedule below). During the lecture, we will briefly cover the corresponding topic, and then discuss your questions. 
 
-You need to email your questions before  Tuesday 13:00 to the tutors  so that they can be considered for the lectures. 
+You need to email your (non-trivial) questions before Tuesday 13:00 to the tutors  so that they can be considered for the lectures. 
 In your email, please include "NucSyn" in the subject, and mention at the beginning of your question the corresponding subsection of the lecture notes (or book page).
 
 The final grade will be calculated as follows: 
@@ -60,7 +60,7 @@ The final grade will be calculated as follows:
 Your presence in the lectures, and in the excercise class, is also a requirement to earn the credit points for this class. 
 
 #### Paper presentations 
-Each student is expected to give a 15 min presentation (10' + 5' for questions) on a recent research paper on a topic in nucleosynthesis. Please e-mail your preference to janton [at] mpifr.de by June 15. A list of suggested papers is available [here](https://ui.adsabs.harvard.edu/#user/libraries/srWK-pAGTZ-D1fpyllBK3g). Please check the library description to see if a paper has already been chosen 
+Each student is expected to give a 15 min presentation (10' + 5' for questions) on a recent research paper on a topic in nucleosynthesis. Please e-mail your preference to janton [at] mpifr.de by June 15. A list of suggested papers is available [here](https://ui.adsabs.harvard.edu/#user/libraries/srWK-pAGTZ-D1fpyllBK3g). Please check the library description to see if a paper has already been chosen.
 
 #### Schedule  
 
