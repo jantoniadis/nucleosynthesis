@@ -3,7 +3,7 @@
 Welcome to astro858, a course on nucleosynthesis! 
 
 ### Goal 
- * To undestand the chemical composition of the universe and its evolution in time and space 
+ * To undestand the chemical composition of the universe, and its evolution in time and space 
  
  
 ![The remnant of SN1987A; Image by HST](https://spacetelescope.org/static/archives/images/screen/opo1030a.jpg)
@@ -26,7 +26,7 @@ Remnant of SN1987A imaged by HST
 
 
 ### Bibliography 
-The powerpoint presentations discussed in the class are available in the table below. I will try my best to upload the slides at least two days before the Thursday lectures. You can also fork the entire github rep by following the [View on Github] button above. 
+The powerpoint presentations will be available in the table below. I will try my best to upload the slides at least two days before the Thursday lectures. 
 
 The lectures will follow the material provided in the: 
 * [Lecture notes by N. Langer](https://astro.uni-bonn.de/~nlanger/siu_web/nucscript/Nucleo.pdf)
@@ -49,7 +49,7 @@ We will also discuss some topics from:
 #### Evaluation and course requirements 
 The setup of this class is as follows: in the lectures, it is assumed that you worked through the corresponding chapter of the day  beforehand (see schedule below). During the lecture, we will briefly cover the corresponding topic, and then discuss your questions. 
 
-You need to email your (non-trivial) questions before Tuesday 13:00 to the tutors  so that they can be considered for the lectures. 
+You need to email your (non-trivial) questions before Tuesday 13:00 to the tutors so that they can be considered for the lectures. 
 In your email, please include "NucSyn" in the subject, and mention at the beginning of your question the corresponding subsection of the lecture notes (or book page).
 
 The final grade will be calculated as follows: 
@@ -68,7 +68,7 @@ Each student is expected to give a 15 min presentation (10' + 5' for questions) 
 
 | Chapter                        |      Lecture        | E-mail questions by  |
 | -------------                  |  :-------------:    |                -----:|
-| Intro                          |      April 18       |  -                   |
+| 1: Intro                       |      April 18       |  -                   |
 | 2: Thermonuclear reactions     |      April 25       |              April 23|         
 | 3: Big Bang Nucleosynthesis	   |    May 2            |              April 30|
 | 4: Hydrogen burning       	    |    May 7            |              May 5   |
