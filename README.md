@@ -14,7 +14,7 @@ Remnant of SN1987A imaged by HST
 
 * Times: Thursday 11:00 - 13:00  
 * Location: AIfA Bonn , Room 0.008 
-* Lectures by John Antoniadis (janton at mpifr .de)
+* Lectures by John Antoniadis (janton@mpifr.de)
 
 
 ### Exercise classes: April 26 - July 13, 2019
@@ -22,7 +22,7 @@ Remnant of SN1987A imaged by HST
 * Times: Friday 10:00-11:00/11:00-12:00 
 * Location: AIfA Bonn; Rooms 0.006/0.008 
 * The exercise class is a compulsory part of the course
-* Tutors: David Aguilera Dena, Ben Hastings  
+* Tutors: David Aguilera Dena (davidrad@astro.uni-bonn.de) , Ben Hastings (bhastings@astro.uni-bonn.de) 
 
 
 ### Bibliography 
