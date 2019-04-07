@@ -3,7 +3,7 @@
 Welcome to astro858, a course on nucleosynthesis! 
 
 ### Goal 
- * To undestand the chemical composition of the universe, and its evolution in time and space 
+ * To undestand the Universe's chemical composition, and its evolution in time and space 
  
  
 ![The remnant of SN1987A; Image by HST](https://spacetelescope.org/static/archives/images/screen/opo1030a.jpg)
@@ -72,7 +72,7 @@ Each student is expected to give a 15 min presentation (10' + 5' for questions) 
 | 2: Thermonuclear reactions     |      April 25       |              April 23|         
 | 3: Big Bang Nucleosynthesis	   |    May 2            |              April 30|
 | 4: Hydrogen burning       	    |    May 7            |              May 5   |
-| 4: CNO, NeNa, MgAl cycles      |    May 16           |          May 14      |
+| 4: CNO, NeNa, MgAl cycles      |    May 16(*)        |          May 14      |
 | 4: Advanced burning cycles     |    May 23           |          May 21      |
 | 5.1: s-process                 |    June 6           |            June 4    |
 | 5.2: r-process                 |    June 13          |             June 11  |
@@ -81,7 +81,7 @@ Each student is expected to give a 15 min presentation (10' + 5' for questions) 
 | 5.2: Core collapse supernovae and p-process          |    July 4  | July 2  |
 | 6/7: Thermonuclear supernovae/Spalation processes    |    July 11 | July 9  |
 
-
+(*) Time and location may change 
 
 
 
