@@ -79,7 +79,7 @@ Each student is expected to give a 15 min presentation (10' + 5' for questions) 
 | Student preesntations  - 1     |    June 21          |         -            |
 | Student preesntations  - 2     |    June 27          |        -             |
 | 5.2: Core collapse supernovae and p-process          |    July 4  | July 2  |
-| 6/7: Thermonuclear supernovae/Spalation processes    |    July 11 | July 9  |
+| 6/7: Thermonuclear supernovae/Spalation processes    |    July 11* | July 9  |
 
 (*) Time and location may change 
 
