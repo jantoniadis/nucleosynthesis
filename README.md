@@ -66,20 +66,20 @@ Each student is expected to give a 15 min presentation (10' + 5' for questions) 
 
 
 
-| Chapter                        |      Lecture        | E-mail questions by  |
+| Chapter / Lecture                       |      Lecture Date        | E-mail questions by  |
 | -------------                  |  :-------------:    |                -----:|
 | 1: Intro                       |      April 18       |  -                   |
 | 2: Thermonuclear reactions     |      April 25       |              April 23|         
-| 4: Hydrogen burning	           |    May 2            |              April 30|
-| 3: Big Bang Nucleosynthesis       	    |    May 7    |              May 5   |
-| 4: CNO, NeNa, MgAl cycles      |    May 16*          |          May 14      |
-| 4: Advanced burning cycles     |    May 23           |          May 21      |
-| 5.1: s-process                 |    June 6           |            June 4    |
-| 5.2: r-process                 |    June 13          |             June 11  |
+| 3: Big-bang nucleosynthesis	   |    May 2            |              April 30|
+| 3: Thermonuclear reactions in stars - I (H-burning)  |    May 7    |              May 5   |
+| 4: Thermonuclear reactions in stars - II (advanced burning)|    May 16*          |          May 14      |
+| 5: s- and r-process - I     |    May 23           |          May 21      |
+| 5: s- and r-process - II     |    June 6           |            June 4    |
+| 6: Thermonuclear Supernovae    |    June 13          |             June 11  |
 | Student preesntations  - 1     |    June 21          |         -            |
 | Student preesntations  - 2     |    June 27          |        -             |
-| 5.2: Core collapse supernovae and p-process          |    July 4  | July 2  |
-| 6/7: Thermonuclear supernovae/Spalation processes    |    July 11* | July 9  |
+| 7: Li, Be, B          |    July 4  | July 2  |
+| 8: Galactic chemical evolution    |    July 11* | July 9  |
 
 (*) Time and location may change 
 
