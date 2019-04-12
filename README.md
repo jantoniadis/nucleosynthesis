@@ -66,20 +66,20 @@ Each student is expected to give a 15 min presentation (10' + 5' for questions) 
 
 
 
-| Chapter / Lecture                       |      Lecture Date        | E-mail questions by  |
-| -------------                  |  :-------------:    |                -----:|
-| 1: Intro                       |      April 18       |  -                   |
-| 2: Thermonuclear reactions     |      April 25       |              April 23|         
-| 3: Big-bang nucleosynthesis	   |    May 2            |              April 30|
-| 3: Thermonuclear reactions in stars - I (H-burning)  |    May 7    |              May 5   |
-| 4: Thermonuclear reactions in stars - II (advanced burning)|    May 16*          |          May 14      |
-| 5: s- and r-process - I     |    May 23           |          May 21      |
-| 5: s- and r-process - II     |    June 6           |            June 4    |
-| 6: Thermonuclear Supernovae    |    June 13          |             June 11  |
-| Student preesntations  - 1     |    June 21          |         -            |
-| Student preesntations  - 2     |    June 27          |        -             |
-| 7: Li, Be, B          |    July 4  | July 2  |
-| 8: Galactic chemical evolution    |    July 11* | July 9  |
+| Chapter / Lecture                       |      Lecture Date        | questions by  | Excercise class |
+| -------------                  |  :-------------:    |      :-------------:    |          -----:| 
+| 1: Intro                       |      April 18       |  -                   | 
+| 2: Thermonuclear reactions     |      April 25       |              April 23|    April 24  |     
+| 3: Big-bang nucleosynthesis	   |    May 2            |              April 30|   May 3 | 
+| 3: Thermonuclear reactions in stars - I (H-burning)  |    May 7    |              May 5   | May 8  |
+| 4: Thermonuclear reactions in stars - II (advanced burning)|    May 16*          |          May 14      | May 17 |
+| 5: s- and r-process - I     |    May 23           |          May 21      | May 24 |
+| 5: s- and r-process - II     |    June 6           |            June 4    | June 7 |
+| 6: Thermonuclear Supernovae    |    June 13          |             June 11  | June 14 |
+| Student preesntations  - 1     |    June 21          |         -            | - | 
+| Student preesntations  - 2     |    June 27          |        -             | - |
+| 7: Li, Be, B          |    July 4  | July 2  | July 5 |
+| 8: Galactic chemical evolution    |    July 11* | July 9  | July 12 |
 
 (*) Time and location may change 
 
