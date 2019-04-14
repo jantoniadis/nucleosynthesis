@@ -75,9 +75,9 @@ If you don't already have an account, you can register [here](https://ui.adsabs.
 | 3: Big-bang nucleosynthesis	   |    May 2            |              April 30|   May 3 | 
 | 3: Thermonuclear reactions in stars - I (H-burning)  |    May 7    |              May 5   | May 8  |
 | 4: Thermonuclear reactions in stars - II (advanced burning)|    May 16*          |          May 14      | May 17 |
-| 5: s- and r-process - I     |    May 23           |          May 21      | May 24 |
-| 5: s- and r-process - II     |    June 6           |            June 4    | June 7 |
-| 6: Thermonuclear Supernovae    |    June 13          |             June 11  | June 14 |
+| 5: s-process     |    May 23           |          May 21      | May 24 |
+| 5: r-process, explosive nucleosynthesis     |    June 6           |            June 4    | June 7 |
+| 6: Thermonuclear supernovae    |    June 13          |             June 11  | June 14 |
 | Student preesntations  - 1     |    June 21          |         -            | - | 
 | Student preesntations  - 2     |    June 27          |        -             | - |
 | 7: Li, Be, B          |    July 4  | July 2  | July 5 |
