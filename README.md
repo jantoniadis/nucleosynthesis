@@ -61,7 +61,8 @@ The final grade will be calculated as follows:
 Your presence in the lectures, and in the excercise class, is also a requirement to earn the credit points for this class. 
 
 #### Paper presentations 
-Each student is expected to give a 15 min presentation (10' + 5' for questions) on a recent research paper on a topic in nucleosynthesis. Please e-mail your preference to janton [at] mpifr.de by May 24. A list of suggested papers is available [here](https://ui.adsabs.harvard.edu/#user/libraries/srWK-pAGTZ-D1fpyllBK3g). Please check the library description to see if a paper has already been chosen. Note that you will need an active account to view the library. If you don't already have an account, you can register [here](https://ui.adsabs.harvard.edu/user/account/register)
+Each student is expected to give a 15 min presentation (10' + 5' for questions) on a recent research paper on a topic in nucleosynthesis. Please e-mail your preference to janton [at] mpifr.de by May 24. A list of suggested papers is available [here](https://ui.adsabs.harvard.edu/#user/libraries/srWK-pAGTZ-D1fpyllBK3g). Please check the library description to see if a paper has already been chosen. Note that you will need an active account to view the library. 
+If you don't already have an account, you can register [here](https://ui.adsabs.harvard.edu/user/account/register)
 
 #### Schedule  
 
