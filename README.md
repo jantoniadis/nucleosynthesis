@@ -43,6 +43,7 @@ We will also discuss some topics from:
 
 #### Further reading
 * [K. Nomoto, C. Kobayashi & N. Tominaga, Nucleosynthesis in Stars and the Chemical Enrichment of Galaxies, ARAA, 2013](https://www.annualreviews.org/doi/pdf/10.1146/annurev-astro-082812-140956)
+* [Gary Steigman, Light Element Nucleosynthesis, Encyclopedia of Astronomy & Astrophysics, P. Murdin, 2006](http://www.astro.caltech.edu/~george/ay21/eaa/eaa-bbns.pdf)
 
 
 
