@@ -68,7 +68,7 @@ Each student is expected to give a 15 min presentation (10' + 5' for questions) 
 
 | Chapter / Lecture                       |      Lecture Date        | questions by  | Excercise class |
 | -------------                  |  :-------------:    |      :-------------:    |          -----:| 
-| 1: Intro                       |      April 18       |  -                   | 
+| 1: [Introduction](presentations/Nuc_Lecture_1.pdf)                       |      April 18       |  -                   | 
 | 2: Thermonuclear reactions     |      April 25       |              April 23|    April 24  |     
 | 3: Big-bang nucleosynthesis	   |    May 2            |              April 30|   May 3 | 
 | 3: Thermonuclear reactions in stars - I (H-burning)  |    May 7    |              May 5   | May 8  |
