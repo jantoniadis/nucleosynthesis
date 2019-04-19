@@ -1,4 +1,4 @@
-### Course overview 
+### Nucleosynthesis: Course overview 
 
 Welcome to astro858, a course on nucleosynthesis! 
 
