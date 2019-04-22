@@ -89,9 +89,9 @@ If you don't already have an account, you can register [here](https://ui.adsabs.
 
 (*) Time and location may change 
 
-#### Resources
+### Resources
 
-Nuclear data and reaction rates 
+#### Nuclear data and reaction rates 
 
 * [periodictable.com](http://periodictable.com/)
 * [JINA Reaclib database (reaction rates)](http://reaclib.jinaweb.org/)
@@ -100,7 +100,7 @@ Nuclear data and reaction rates
 * [Karlsruhe Astrophysical Database of Nucleosynthesis in Stars (nuclear data)](http://www.kadonis.org/)
 * [NuGrid Collaboration](http://www.astro.keele.ac.uk/nugrid)
 
-Supernovae and transients
+#### Supernovae and transients
 * [Open Supernova Catalogue](https://sne.space/)
 * [Transient Name Server](https://wis-tns.weizmann.ac.il/)
 * [Astronomers' Telegram](http://www.astronomerstelegram.org/)
@@ -108,9 +108,7 @@ Supernovae and transients
 * [Gravitational Wave Transient Catalogue (O1 & O2)](https://www.gw-openscience.org/catalog/)
 * [O3 Gravitational Wave Transients](https://gracedb.ligo.org/latest/)
 
-
-
-Other 
+#### Other 
 * [bigbangonline.org (BBN simulation tool)](http://bigbangonline.org/)
 * [Meteoride Compositions](https://www.permanent.com/meteorite-compositions.html)
 * [Laboratory for Underground Nuclear Astrophysics (LUNA)](https://luna.lngs.infn.it/)
