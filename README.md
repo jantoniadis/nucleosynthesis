@@ -44,7 +44,9 @@ We will also discuss some topics from:
 #### Further reading
 * [K. Nomoto, C. Kobayashi & N. Tominaga, Nucleosynthesis in Stars and the Chemical Enrichment of Galaxies, ARAA, 2013](https://www.annualreviews.org/doi/pdf/10.1146/annurev-astro-082812-140956)
 * [Gary Steigman, Light Element Nucleosynthesis, Encyclopedia of Astronomy & Astrophysics, P. Murdin, 2006](http://www.astro.caltech.edu/~george/ay21/eaa/eaa-bbns.pdf)
-
+* [F. Kappeler, H. Beer & K, Wisshak, s-process nucleosynthesis-nuclear physics and the classical model, Reports on Progress in Physics 52, 945 1989](https://iopscience.iop.org/article/10.1088/0034-4885/52/8/002)
+* [M. Arnould, S. Goriely, K. Takahashi, The r-process of stellar nucleosynthesis: Astrophysics and nuclear physics achievements and mysteries, Physics Reports 450, 97 2007](https://arxiv.org/abs/0705.4512)
+* [M. Arnould, S. Goriely, The p-process of stellar nucleosynthesis: astrophysics and nuclear physics status. Physics Reports 384, 1 2003](https://www.sciencedirect.com/science/article/abs/pii/S0370157303002424)
 
 
 #### Evaluation and course requirements 
