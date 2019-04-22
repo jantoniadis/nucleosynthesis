@@ -112,6 +112,8 @@ Supernovae and transients
 
 Other 
 * [bigbangonline.org (BBN simulation tool)](http://bigbangonline.org/)
+* [Meteoride Compositions](https://www.permanent.com/meteorite-compositions.html)
+* [Laboratory for Underground Nuclear Astrophysics (LUNA)](https://luna.lngs.infn.it/)
 * [US nuclear data program](https://www.nndc.bnl.gov/usndp/usndp-subject.html)
 * [Modules for Experiments in Stellar Astrophysics (MESA)](http://mesa.sourceforge.net/)
 * [The GALPROP code for cosmic-ray transport and diffuse emission production](https://galprop.stanford.edu/)
