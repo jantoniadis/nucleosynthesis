@@ -44,6 +44,10 @@ We will also discuss some topics from:
 #### Further reading
 * [K. Nomoto, C. Kobayashi & N. Tominaga, Nucleosynthesis in Stars and the Chemical Enrichment of Galaxies, ARAA, 2013](https://www.annualreviews.org/doi/pdf/10.1146/annurev-astro-082812-140956)
 * [Gary Steigman, Light Element Nucleosynthesis, Encyclopedia of Astronomy & Astrophysics, P. Murdin, 2006](http://www.astro.caltech.edu/~george/ay21/eaa/eaa-bbns.pdf)
+* [F. Kappeler, H. Beer & K, Wisshak, s-process nucleosynthesis-nuclear physics and the classical model, Reports on Progress in Physics 52, 945 1989](https://iopscience.iop.org/article/10.1088/0034-4885/52/8/002)
+* [M. Arnould, S. Goriely, K. Takahashi, The r-process of stellar nucleosynthesis: Astrophysics and nuclear physics achievements and mysteries, Physics Reports 450, 97 2007](https://arxiv.org/abs/0705.4512)
+* [M. Arnould, S. Goriely, The p-process of stellar nucleosynthesis: astrophysics and nuclear physics status. Physics Reports 384, 1 2003](https://www.sciencedirect.com/science/article/abs/pii/S0370157303002424)
+
 
 
 
@@ -84,6 +88,34 @@ If you don't already have an account, you can register [here](https://ui.adsabs.
 | 8: Galactic chemical evolution    |    July 11* | July 9  | July 12 |
 
 (*) Time and location may change 
+
+### Resources
+
+#### Nuclear data and reaction rates 
+
+* [periodictable.com](http://periodictable.com/)
+* [JINA Reaclib database (reaction rates)](http://reaclib.jinaweb.org/)
+* [National Nuclear Datacenter; Brookhaven National Lab (nuclear data)](https://www.nndc.bnl.gov/)
+* [Brusslib (nuclear data incl. partition functions)](http://www.astro.ulb.ac.be/pmwiki/Brusslib/Partition)
+* [Karlsruhe Astrophysical Database of Nucleosynthesis in Stars (nuclear data)](http://www.kadonis.org/)
+* [NuGrid Collaboration](http://www.astro.keele.ac.uk/nugrid)
+
+#### Supernovae and transients
+* [Open Supernova Catalogue](https://sne.space/)
+* [Transient Name Server](https://wis-tns.weizmann.ac.il/)
+* [Astronomers' Telegram](http://www.astronomerstelegram.org/)
+* [Gamma-ray Coordinates Network (GCN)](https://gcn.gsfc.nasa.gov/)
+* [Gravitational Wave Transient Catalogue (O1 & O2)](https://www.gw-openscience.org/catalog/)
+* [O3 Gravitational Wave Transients](https://gracedb.ligo.org/latest/)
+
+#### Other 
+* [bigbangonline.org (BBN simulation tool)](http://bigbangonline.org/)
+* [Meteoride Compositions](https://www.permanent.com/meteorite-compositions.html)
+* [Laboratory for Underground Nuclear Astrophysics (LUNA)](https://luna.lngs.infn.it/)
+* [US nuclear data program](https://www.nndc.bnl.gov/usndp/usndp-subject.html)
+* [Modules for Experiments in Stellar Astrophysics (MESA)](http://mesa.sourceforge.net/)
+* [The GALPROP code for cosmic-ray transport and diffuse emission production](https://galprop.stanford.edu/)
+
 
 
 
