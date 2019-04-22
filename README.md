@@ -49,6 +49,8 @@ We will also discuss some topics from:
 * [M. Arnould, S. Goriely, The p-process of stellar nucleosynthesis: astrophysics and nuclear physics status. Physics Reports 384, 1 2003](https://www.sciencedirect.com/science/article/abs/pii/S0370157303002424)
 
 
+
+
 #### Evaluation and course requirements 
 The setup of this class is as follows: in the lectures, it is assumed that you worked through the corresponding chapter of the day  beforehand (see schedule below). During the lecture, we will briefly cover the corresponding topic, and then discuss your questions. 
 
@@ -86,6 +88,34 @@ If you don't already have an account, you can register [here](https://ui.adsabs.
 | 8: Galactic chemical evolution    |    July 11* | July 9  | July 12 |
 
 (*) Time and location may change 
+
+#### Resources
+
+Nuclear data and reaction rates 
+
+* [periodictable.com](http://periodictable.com/)
+* [JINA Reaclib database (reaction rates)](http://reaclib.jinaweb.org/)
+* [National Nuclear Datacenter; Brookhaven National Lab (nuclear data)](https://www.nndc.bnl.gov/)
+* [Brusslib (nuclear data incl. partition functions)](http://www.astro.ulb.ac.be/pmwiki/Brusslib/Partition)
+* [Karlsruhe Astrophysical Database of Nucleosynthesis in Stars (nuclear data)](http://www.kadonis.org/)
+* [NuGrid Collaboration](http://www.astro.keele.ac.uk/nugrid)
+
+Supernovae and transients
+* [Open Supernova Catalogue](https://sne.space/)
+* [Transient Name Server](https://wis-tns.weizmann.ac.il/)
+* [Astronomers' Telegram](http://www.astronomerstelegram.org/)
+* [Gamma-ray Coordinates Network (GCN)](https://gcn.gsfc.nasa.gov/)
+* [Gravitational Wave Transient Catalogue (O1 & O2)](https://www.gw-openscience.org/catalog/)
+* [O3 Gravitational Wave Transients](https://gracedb.ligo.org/latest/)
+
+
+
+Other 
+* [bigbangonline.org (BBN simulation tool)](http://bigbangonline.org/)
+* [US nuclear data program](https://www.nndc.bnl.gov/usndp/usndp-subject.html)
+* [Modules for Experiments in Stellar Astrophysics (MESA)](http://mesa.sourceforge.net/)
+* [The GALPROP code for cosmic-ray transport and diffuse emission production](https://galprop.stanford.edu/)
+
 
 
 
