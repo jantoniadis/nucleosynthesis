@@ -115,6 +115,7 @@ If you don't already have an account, you can register [here](https://ui.adsabs.
 * [US nuclear data program](https://www.nndc.bnl.gov/usndp/usndp-subject.html)
 * [Modules for Experiments in Stellar Astrophysics (MESA)](http://mesa.sourceforge.net/)
 * [The GALPROP code for cosmic-ray transport and diffuse emission production](https://galprop.stanford.edu/)
+* [The elements in Haiku](https://vis.sciencemag.org/chemhaiku/?fbclid=IwAR2CgQ5uAzS9EiO-_9OoX7aw8Efeb0WwQKzz8zyI0FLrH2RzhPNTw9tPi1A)
 
 
 
