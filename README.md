@@ -29,7 +29,7 @@ Remnant of SN1987A imaged by HST
 The powerpoint presentations will be available in the table below. I will try my best to upload the slides at least two days before the Thursday lectures. 
 
 The lectures will follow the material provided in the: 
-* [Lecture notes by N. Langer](https://astro.uni-bonn.de/~nlanger/siu_web/nucscript/Nucleo.pdf)
+* [Lecture notes by N. Langer](lecture_notes/Nucleo_Langer.pdf)
 
 These notes provide a brief and concise summary of the concepts covered in the following books: 
 
