@@ -78,16 +78,16 @@ If you don't already have an account, you can register [here](https://ui.adsabs.
 | 2: [Thermonuclear reactions](presentations/Nuc_Lecture_2.pdf)     |      April 25       |              April 23|    April 26  |     
 | 3: [Big-bang nucleosynthesis](presentations/Nuc_Lecture_3.pdf)	   |    May 2            |              April 30|   May 3 | 
 | 4.1,.2: Thermonuclear reactions in stars - I (H-burning)  |    May 7    |              May 5   | May 8  |
-| 4.2,4.3: Thermonuclear reactions in stars - II (CNO, NeNa, MgAl and advanced burning)|    *May 17*          |          May 14      | *May 16* |
+| 4.2,4.3: Thermonuclear reactions in stars - II (CNO, NeNa, MgAl and advanced burning)|    __May 17__          |          May 14      | __May 16__ |
 | 5: s-process     |    May 23           |          May 21      | May 24 |
 | 5: r-process, explosive nucleosynthesis     |    June 6           |            June 4    | June 7 |
 | Student presentations  - 1     |    June 21          |         -            | - | 
-| 6: Thermonuclear supernovae    |    June 27          |             June 25  | July 5 |
+| 6: Thermonuclear supernovae    |    June 27          |             June 25  | __July 5__ |
 | Student presentations  - 2     |    June 28          |        -             | - |
 | 7: Li, Be, B          |    July 4  | July 2  | July 5 |
 | 8: Galactic chemical evolution    |    July 11* | July 9  | July 12 |
 
-(*) Time and location may change 
+(*) Lecture by Prof. N. Langer 
 
 ### Resources
 
