@@ -78,7 +78,7 @@ If you don't already have an account, you can register [here](https://ui.adsabs.
 | 2: [Thermonuclear reactions](presentations/Nuc_Lecture_2.pdf)     |      April 25       |              April 23|    April 26  |     
 | 3: [Big-bang nucleosynthesis](presentations/Nuc_Lecture_3.pdf)	   |    May 2            |              April 30|   May 3 | 
 | 4.1,.2: [Thermonuclear reactions in stars - I (overview of stellar evolution and H-burning in low-mass stars)](presentations/Nuc_Lecture_4.pdf)  |    May 9    |              May 7   | May 10  |
-| 4.2,4.3: Thermonuclear reactions in stars - II (CNO, NeNa, MgAl and advanced burning)|    __May 17__          |          May 14      | __May 16__ |
+| 4.2,4.3: [Thermonuclear reactions in stars - II (CNO, NeNa, MgAl and advanced burning)](presentations/Nuc_Lecture_5.pdf)|    __May 17__          |          May 14      | __May 16__ |
 | 5: s-process     |    May 23           |          May 21      | May 24 |
 | 5: r-process, explosive nucleosynthesis     |    June 6           |            June 4    | June 7 |
 | Student presentations  - 1     |    June 21          |         -            | - | 
