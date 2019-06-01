@@ -114,8 +114,9 @@ If you don't already have an account, you can register [here](https://ui.adsabs.
 * [Laboratory for Underground Nuclear Astrophysics (LUNA)](https://luna.lngs.infn.it/)
 * [US nuclear data program](https://www.nndc.bnl.gov/usndp/usndp-subject.html)
 * [Modules for Experiments in Stellar Astrophysics (MESA)](http://mesa.sourceforge.net/)
+* [Star in a box](https://starinabox.lco.global/)
 * [The GALPROP code for cosmic-ray transport and diffuse emission production](https://galprop.stanford.edu/)
-* [The elements in Haiku](https://vis.sciencemag.org/chemhaiku/?fbclid=IwAR2CgQ5uAzS9EiO-_9OoX7aw8Efeb0WwQKzz8zyI0FLrH2RzhPNTw9tPi1A)
+* [The elements in haiku](https://vis.sciencemag.org/chemhaiku/?fbclid=IwAR2CgQ5uAzS9EiO-_9OoX7aw8Efeb0WwQKzz8zyI0FLrH2RzhPNTw9tPi1A)
 
 
 
