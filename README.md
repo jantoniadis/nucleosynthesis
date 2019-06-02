@@ -47,6 +47,8 @@ We will also discuss some topics from:
 * [F. Kappeler, H. Beer & K, Wisshak, s-process nucleosynthesis-nuclear physics and the classical model, Reports on Progress in Physics 52, 945 1989](https://iopscience.iop.org/article/10.1088/0034-4885/52/8/002)
 * [M. Arnould, S. Goriely, K. Takahashi, The r-process of stellar nucleosynthesis: Astrophysics and nuclear physics achievements and mysteries, Physics Reports 450, 97 2007](https://arxiv.org/abs/0705.4512)
 * [M. Arnould, S. Goriely, The p-process of stellar nucleosynthesis: astrophysics and nuclear physics status. Physics Reports 384, 1 2003](https://www.sciencedirect.com/science/article/abs/pii/S0370157303002424)
+* [Advanced Stages of Stellar Evolution and Nucleosynthesis; Course by Prof. Stan Woosley](http://www.ucolick.org/~woosley/ay220cnotes19.html)
+*[Introduction to applied nuclear physics; Course by Prof. Paola Cappellaro](https://ocw.mit.edu/courses/nuclear-engineering/22-02-introduction-to-applied-nuclear-physics-spring-2012/index.htm)
 
 
 
@@ -94,6 +96,7 @@ If you don't already have an account, you can register [here](https://ui.adsabs.
 #### Nuclear data and reaction rates 
 
 * [periodictable.com](http://periodictable.com/)
+* [Look up nuclear masses and deformations](https://t2.lanl.gov/nis/data/astro/molnix96/massd.html)
 * [JINA Reaclib database (reaction rates)](http://reaclib.jinaweb.org/)
 * [National Nuclear Datacenter; Brookhaven National Lab (nuclear data)](https://www.nndc.bnl.gov/)
 * [Brusslib (nuclear data incl. partition functions)](http://www.astro.ulb.ac.be/pmwiki/Brusslib/Partition)
