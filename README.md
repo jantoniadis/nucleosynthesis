@@ -84,7 +84,7 @@ If you don't already have an account, you can register [here](https://ui.adsabs.
 | 5: [s-process](presentations/Nuc_Lecture_6.pdf)  |    May 23           |          May 21      | May 24 |
 | Student presentations  - 1     |    June 21          |         -            | - | 
 | Student presentations  - 2     |    June 28          |        -             | - |
-| 5: [r-process, explosive nucleosynthesis]((presentations/Nuc_Lecture_7.pdf))     |    July 2           |            July 1    | July 5 |
+| 5: [r-process, explosive nucleosynthesis](presentations/Nuc_Lecture_7.pdf)     |    July 2           |            July 1    | July 5 |
 | 6: Thermonuclear supernovae    |    July 5          |             July 2  | July 5 |
 | 7: Li, Be, B (*)         |    July 11  | July 9  | July 12 |
 | 8: Galactic chemical evolution    |    TBD | TBD  | TBD |
