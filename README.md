@@ -87,7 +87,7 @@ If you don't already have an account, you can register [here](https://ui.adsabs.
 | 5: [r-process, explosive nucleosynthesis](presentations/Nuc_Lecture_7.pdf)     |    July 2           |            July 1    | July 5 |
 | 6: [Thermonuclear supernovae](presentations/Nuc_Lecture_8.pdf)    |    July 5          |             July 2  | July 5 |
 | 7: Li, Be, B (*)         |    July 11  | July 9  | July 12 |
-| 8: Galactic chemical evolution    |    TBD | TBD  | TBD |
+| 8: Galactic chemical evolution    |     | Canceled  |  |
 
 (*) Lecture by Prof. N. Langer 
 
