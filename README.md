@@ -8,21 +8,39 @@ Welcome to astro858, a course on nucleosynthesis!
  
 ![The remnant of SN1987A; Image by HST](https://spacetelescope.org/static/archives/images/screen/opo1030a.jpg)
 Remnant of SN1987A imaged by HST
- 
 
-### Lecture term: April 18  - July 11, 2019
 
-* Times: Thursday 11:00 - 13:00  
+### !!!!!COVID-19 UDATE!!!!!
+Due to the current situation and until further notice __the course will be taught online__ using the ecampus platform (see below)
+More specifically, each lecture will consist of a series of videos, online quizzes and questions. 
+These modules are __self-paced__, i.e. you can complete them at your own time, but not after the corresponding deadline (each module should take ~2-3 hours to complete).
+The exercise classes will be replaced by weekly zoom meetings (TBA). 
+
+Until we revert back to normal teaching, your credit will be calculated as follows: 
+* 25% -- online quizzes
+* 25% -- participation in zoom  
+* 50% -- paper presentations (TBH online, if nothing changes) 
+
+
+[THE E-CAMPUS WEBSITE FOR THE COURSE CAN BE FOUND HERE](https://ecampus.uni-bonn.de/bl.php?id=176423)
+
+If you're interested in joining the course, put can't access the above page, please send an email to janton@mpifr.de 
+
+
+
+### Lecture term: April 23  - July 16, 2019
+
+* Times: Thursday 11:00 - 13:00/Friday 10:00-11:00  
 * Location: AIfA Bonn , Room 0.008 
 * Lectures by John Antoniadis (janton@mpifr.de)
 
 
-### Exercise classes: April 26 - July 13, 2019
+### Exercise classes: May 8 - July 17, 2019
 
 * Times: Friday 10:00-11:00/11:00-12:00 
 * Location: AIfA Bonn; Rooms 0.006/0.008 
 * The exercise class is a compulsory part of the course
-* Tutors: David Aguilera Dena (davidrad@astro.uni-bonn.de) , Ben Hastings (bhastings@astro.uni-bonn.de) 
+* Tutors:  Ben Hastings (bhastings@astro.uni-bonn.de), Tasha Gautam (tgautam@mpifr-bonn.mpg.de) 
 
 
 ### Bibliography 
@@ -31,14 +49,16 @@ The powerpoint presentations will be available in the table below. I will try my
 The lectures will follow the material provided in the: 
 * [Lecture notes by N. Langer](lecture_notes/Nucleo_Langer.pdf)
 
-These notes provide a brief and concise summary of the concepts covered in the following books: 
-
+Some useful books that cover all topics of the course in detail:
+ 
+* [[ILIADIS] C. Iliadis, Nuclear Physics of Stars, 2005, Wiley, ISBN 0-978-3-527-33648-7](https://books.google.de/books?id=kLZNCAAAQBAJ&pg=PR4&dq=ISBN+978-3-527-33648-7&hl=en&sa=X&ved=0ahUKEwi99ofT7JXgAhWBBiwKHWxcD-8Q6AEIMTAB#v=onepage&q&f=false)
+* [[ARNET] D. Arnett, Supernovae and Nucleosynthesis, 1996, Princeton University Press, ISBN 0-691-01147-8](https://ui.adsabs.harvard.edu/abs/1996snih.book.....A/abstract)
+* [[ROLFS] C. E. Rolfs and W. S. Rodney, Claudrons in the Cosmos, 1988, The Univesity of Chicago Press, ISBN 0-226-72456-5](https://books.google.de/books?id=BHKLFPUS1RcC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) 
 * [[PAGEL] B.E.J. Pagel, Nucleosynthesis and Chemical  Evolution of  Galaxies, 2009, Second edition, Cambridge University Press, ISBN 978-0-521-84030-9](https://books.google.de/books?id=5z4_nJMRZEwC&pg=PA444&dq=B.E.J.+Pagel,+Nucleosynthesis+and+Chemical++Evolution+of++Galaxies&hl=en&sa=X&ved=0ahUKEwiLl7WX7ZXgAhWFDCwKHZAbCkcQ6wEIKTAA#v=onepage&q&f=false)
 * [[CLAYTON] D.D. Clayton, Principles of Stellar Evolution and Nucleosynthesis, 1968, University of Chicago Press, ISBN 0-226 10953-4](https://books.google.de/books?id=8HSGFThnbvkC&printsec=frontcover&dq=D.D.+Clayton,+Principles+of+Stellar+Evolution+and+Nucleosynthesis&hl=en&sa=X&ved=0ahUKEwjO2aj47JXgAhWNhaYKHcwbABYQ6wEIKTAA#v=onepage&q&f=false)
 
-We will also discuss some topics from: 
 
-* [[ILIADIS] C. Iliadis, Nuclear Physics of Stars, 2005, Wiley, ISBN 0-978-3-527-33648-7](https://books.google.de/books?id=kLZNCAAAQBAJ&pg=PR4&dq=ISBN+978-3-527-33648-7&hl=en&sa=X&ved=0ahUKEwi99ofT7JXgAhWBBiwKHWxcD-8Q6AEIMTAB#v=onepage&q&f=false)
+
 
 
 #### Further reading
@@ -60,8 +80,8 @@ You need to email your (non-trivial) questions before Tuesday 13:00 to the tutor
 In your email, please include "NucSyn" in the subject, and mention at the beginning of your question the corresponding subsection of the lecture notes (or book page).
 
 The final grade will be calculated as follows: 
-* 25% -- attendance in lectures and excercise classes
-* 25% -- questions 
+* 30% -- excercises
+* 20% -- questions 
 * 50% -- paper presentations 
 
 Your presence in the lectures, and in the excercise class, is also a requirement to earn the credit points for this class. 
@@ -70,26 +90,27 @@ Your presence in the lectures, and in the excercise class, is also a requirement
 Each student is expected to give a 15 min presentation (10' + 5' for questions) on a recent research paper on a topic in nucleosynthesis. Please e-mail your preference to janton [at] mpifr.de by May 24. A list of suggested papers is available [here](https://ui.adsabs.harvard.edu/#user/libraries/srWK-pAGTZ-D1fpyllBK3g). Please check the library description to see if a paper has already been chosen. Note that you will need an active account to view the library. 
 If you don't already have an account, you can register [here](https://ui.adsabs.harvard.edu/user/account/register)
 
-#### Schedule  
+#### Preliminary Schedule () 
 
 
 
 | Chapter / Lecture                       |      Lecture Date        | questions by  | Excercise class |
 | -------------                  |  :-------------:    |      :-------------:    |          -----:| 
-| 1: [Introduction](presentations/Nuc_Lecture_1.pdf)                       |      April 18       |  -                   | 
-| 2: [Thermonuclear reactions](presentations/Nuc_Lecture_2.pdf)     |      April 25       |              April 23|    April 26  |     
-| 3: [Big-bang nucleosynthesis](presentations/Nuc_Lecture_3.pdf)	   |    May 2            |              April 30|   May 3 | 
-| 4.1,.2: [Thermonuclear reactions in stars - I (overview of stellar evolution and H-burning in low-mass stars)](presentations/Nuc_Lecture_4.pdf)  |    May 9    |              May 7   | May 10  |
-| 4.2,4.3: [Thermonuclear reactions in stars - II (CNO, NeNa, MgAl and advanced burning)](presentations/Nuc_Lecture_5.pdf)|    __May 17__          |          May 14      | __May 16__ |
-| 5: [s-process](presentations/Nuc_Lecture_6.pdf)  |    May 23           |          May 21      | May 24 |
-| Student presentations  - 1     |    June 21          |         -            | - | 
-| Student presentations  - 2     |    June 28          |        -             | - |
-| 5: [r-process, explosive nucleosynthesis](presentations/Nuc_Lecture_7.pdf)     |    July 2           |            July 1    | July 5 |
-| 6: [Thermonuclear supernovae](presentations/Nuc_Lecture_8.pdf)    |    July 5          |             July 2  | July 5 |
-| 7: Li, Be, B (*)         |    July 11  | July 9  | July 12 |
-| 8: Galactic chemical evolution    |     | Canceled  |  |
+| 1: [Introduction](presentations/Nuc_Lecture_1.pdf)                       |      April 23       |  -                   | 
+| 2: [Nuclear Physics Essentials]                       |      April 24       |  -                   | -
+| 2: [Thermonuclear reactions]     |      April 30       |              April 29|    -  | 
+| 3: [Big-bang nucleosynthesis]	   |    May 7            |              May 6|   May 8 | 
+| 4.1,.2: [Stellar Evolution and H burning]  |    May 14    |              May 13   | May 15  |
+| 4.2: [H-burning (cont.)]|    May 21          |          May 20      | May 22|
+| 4.3: [Helium Burning, advanced burning]|    May 28          |          May 27      | May 29|
+| 5: [s-process]  |    June 4           |          June 3     | June 5 |
+| 5: [r-process, explosive nucleosynthesis]    |    June 11           |            June 10    | June 12 |
+| 6: [Thermonuclear supernovae]   |    June 18          |    June 17  | June 19 |
+| 7: Li, Be, B (*)         |    June 25  | June 24  | June 26 |
+| 8: Galactic chemical evolution    |   July 2  | July 1  | Jule 3  |
+| Student presentations  - 1     |    July [TBD]         |         -            | - | 
+| Student presentations  - 2     |    July [TBD]         |        -             | - |
 
-(*) Lecture by Prof. N. Langer 
 
 ### Resources
 
