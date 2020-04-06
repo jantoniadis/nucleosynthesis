@@ -11,14 +11,13 @@ Remnant of SN1987A imaged by HST
 
 
 ### !!!!!COVID-19 UDATE!!!!!
-Due to the current situation and until further notice __the course will be taught online__ using the ecampus platform (see below)
+Due to the current situation and until further notice __the course will be taught online__ using the ecampus platform (see link below). 
 More specifically, each lecture will consist of a series of videos, online quizzes and questions. 
 These modules are __self-paced__, i.e. you can complete them at your own time, but not after the corresponding deadline (each module should take ~2-3 hours to complete).
 The exercise classes will be replaced by weekly zoom meetings (TBA). 
 
 Until we revert back to normal teaching, your credit will be calculated as follows: 
-* 25% -- online quizzes
-* 25% -- participation in zoom  
+* 50% -- Completion of eModules (videos+tests) before the corresponding deadline 
 * 50% -- paper presentations (TBH online, if nothing changes) 
 
 
