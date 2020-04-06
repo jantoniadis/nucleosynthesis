@@ -22,9 +22,10 @@ Until we revert back to normal teaching, your credit will be calculated as follo
 * 50% -- paper presentations (TBH online, if nothing changes) 
 
 
-[THE E-CAMPUS WEBSITE FOR THE COURSE CAN BE FOUND HERE](https://ecampus.uni-bonn.de/bl.php?id=176423)
+To join, please visit the [astro858 e-campus/basis page](https://ecampus.uni-bonn.de/goto_ecampus_crs_1662948.html) or use 
+the following [link](https://ecampus.uni-bonn.de/goto.php?target=crs_1662948_rcode5m6ALEajcM&client_id=ecampus) (note that both links require a valid UNI-ID)
 
-If you're interested in joining the course, put can't access the above page, please send an email to janton@mpifr.de 
+If you're interested in joining the course, put the above methods don't work, please send an email to janton@mpifr.de 
 
 
 
