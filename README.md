@@ -29,14 +29,14 @@ If you're interested in joining the course, put the above methods don't work, pl
 
 
 
-### Lecture term: April 23  - July 16, 2019
+### Lecture term: April 23  - July 16, 2020
 
 * Times: Thursday 11:00 - 13:00/Friday 10:00-11:00  
 * Location: AIfA Bonn , Room 0.008 
 * Lectures by John Antoniadis (janton@mpifr.de)
 
 
-### Exercise classes: May 8 - July 17, 2019
+### Exercise classes: May 8 - July 17, 2020
 
 * Times: Friday 10:00-11:00/11:00-12:00 
 * Location: AIfA Bonn; Rooms 0.006/0.008 
