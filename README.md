@@ -17,7 +17,7 @@ These modules are __self-paced__, i.e. you can complete them at your own time, b
 The exercise classes will be replaced by weekly zoom meetings (TBA). 
 
 Until we revert back to normal teaching, your credit will be calculated as follows: 
-* 50% -- Completion of eModules (videos+tests) before the corresponding deadline 
+* 50% -- Completion of eModules (videos+tests+exercises) 
 * 50% -- paper presentations (TBH online, if nothing changes) 
 
 
