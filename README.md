@@ -97,7 +97,7 @@ If you don't already have an account, you can register [here](https://ui.adsabs.
 | Chapter / Lecture                       |      Lecture Date        | questions by  | Excercise class |
 | -------------                  |  :-------------:    |      :-------------:    |          -----:| 
 | 1: [Introduction](presentations/Nuc_Lecture_1.pdf)                       |      April 23       |  -                   | 
-| 2: [Nuclear Physics Essentials]                       |      April 24       |  -                   | -
+| 2: [Nuclear Physics Essentials]                       |      April 30       |  -                   | -
 | 2: [Thermonuclear reactions]     |      April 30       |              April 29|    -  | 
 | 3: [Big-bang nucleosynthesis]	   |    May 7            |              May 6|   May 8 | 
 | 4.1,.2: [Stellar Evolution and H burning]  |    May 14    |              May 13   | May 15  |
