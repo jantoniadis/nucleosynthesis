@@ -11,14 +11,13 @@ Remnant of SN1987A imaged by HST
 
 
 ### !!!!!COVID-19 UDATE!!!!!
-Due to the current situation and until further notice __the course will be taught online__ using the ecampus platform (see below)
+Due to the current situation and until further notice __the course will be taught online__ using the ecampus platform (see link below). 
 More specifically, each lecture will consist of a series of videos, online quizzes and questions. 
 These modules are __self-paced__, i.e. you can complete them at your own time, but not after the corresponding deadline (each module should take ~2-3 hours to complete).
 The exercise classes will be replaced by weekly zoom meetings (TBA). 
 
 Until we revert back to normal teaching, your credit will be calculated as follows: 
-* 25% -- online quizzes
-* 25% -- participation in zoom  
+* 50% -- Completion of eModules (videos+tests+exercises) 
 * 50% -- paper presentations (TBH online, if nothing changes) 
 
 
@@ -29,14 +28,14 @@ If you're interested in joining the course, put the above methods don't work, pl
 
 
 
-### Lecture term: April 23  - July 16, 2019
+### Lecture term: April 23  - July 16, 2020
 
 * Times: Thursday 11:00 - 13:00/Friday 10:00-11:00  
 * Location: AIfA Bonn , Room 0.008 
 * Lectures by John Antoniadis (janton@mpifr.de)
 
 
-### Exercise classes: May 8 - July 17, 2019
+### Exercise classes: May 8 - July 17, 2020
 
 * Times: Friday 10:00-11:00/11:00-12:00 
 * Location: AIfA Bonn; Rooms 0.006/0.008 
@@ -91,14 +90,14 @@ Your presence in the lectures, and in the excercise class, is also a requirement
 Each student is expected to give a 15 min presentation (10' + 5' for questions) on a recent research paper on a topic in nucleosynthesis. Please e-mail your preference to janton [at] mpifr.de by May 24. A list of suggested papers is available [here](https://ui.adsabs.harvard.edu/#user/libraries/srWK-pAGTZ-D1fpyllBK3g). Please check the library description to see if a paper has already been chosen. Note that you will need an active account to view the library. 
 If you don't already have an account, you can register [here](https://ui.adsabs.harvard.edu/user/account/register)
 
-#### Preliminary Schedule () 
+#### Preliminary Schedule  
 
 
 
 | Chapter / Lecture                       |      Lecture Date        | questions by  | Excercise class |
 | -------------                  |  :-------------:    |      :-------------:    |          -----:| 
-| 1: [Introduction](presentations/Nuc_Lecture_1.pdf)                       |      April 23       |  -                   | 
-| 2: [Nuclear Physics Essentials]                       |      April 24       |  -                   | -
+| 1: [Introduction](https://uni-bonn.sciebo.de/s/zzsXdZoifwcClcR)                       |      April 23       |  -                   | 
+| 2: [Nuclear Physics Essentials]                       |      April 30       |  -                   | -
 | 2: [Thermonuclear reactions]     |      April 30       |              April 29|    -  | 
 | 3: [Big-bang nucleosynthesis]	   |    May 7            |              May 6|   May 8 | 
 | 4.1,.2: [Stellar Evolution and H burning]  |    May 14    |              May 13   | May 15  |
