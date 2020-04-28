@@ -97,7 +97,7 @@ If you don't already have an account, you can register [here](https://ui.adsabs.
 | Chapter / Lecture                       |      Lecture Date        | questions by  | Excercise class |
 | -------------                  |  :-------------:    |      :-------------:    |          -----:| 
 | 1: [Introduction](https://uni-bonn.sciebo.de/s/zzsXdZoifwcClcR)                       |      April 23       |  -                   | 
-| 2: [Nuclear Physics Essentials]                       |      April 30       |  -                   | -
+| 2: [Nuclear Physics Essentials](https://uni-bonn.sciebo.de/s/qr7V8bQO8dcmmDE)                     |      April 30       |  -                   | -
 | 2: [Thermonuclear reactions]     |      April 30       |              April 29|    -  | 
 | 3: [Big-bang nucleosynthesis]	   |    May 7            |              May 6|   May 8 | 
 | 4.1,.2: [Stellar Evolution and H burning]  |    May 14    |              May 13   | May 15  |
