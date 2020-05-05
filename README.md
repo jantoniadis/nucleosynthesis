@@ -28,19 +28,7 @@ If you're interested in joining the course, put the above methods don't work, pl
 
 
 
-### Lecture term: April 23  - July 16, 2020
 
-* Times: Thursday 11:00 - 13:00/Friday 10:00-11:00  
-* Location: AIfA Bonn , Room 0.008 
-* Lectures by John Antoniadis (janton@mpifr.de)
-
-
-### Exercise classes: May 8 - July 17, 2020
-
-* Times: Friday 10:00-11:00/11:00-12:00 
-* Location: AIfA Bonn; Rooms 0.006/0.008 
-* The exercise class is a compulsory part of the course
-* Tutors:  Ben Hastings (bhastings@astro.uni-bonn.de), Tasha Gautam (tgautam@mpifr-bonn.mpg.de) 
 
 
 ### Bibliography 
@@ -72,21 +60,6 @@ Some useful books that cover all topics of the course in detail:
 
 
 
-
-#### Evaluation and course requirements 
-The setup of this class is as follows: in the lectures, it is assumed that you worked through the corresponding chapter of the day  beforehand (see schedule below). During the lecture, we will briefly cover the corresponding topic, and then discuss your questions. 
-
-You need to email your (non-trivial) questions before Tuesday 13:00 to the tutors so that they can be considered for the lectures. 
-In your email, please include "NucSyn" in the subject, and mention at the beginning of your question the corresponding subsection of the lecture notes (or book page).
-
-The final grade will be calculated as follows: 
-* 30% -- excercises
-* 20% -- questions 
-* 50% -- paper presentations 
-
-Your presence in the lectures, and in the excercise class, is also a requirement to earn the credit points for this class. 
-
-#### Paper presentations 
 Each student is expected to give a 15 min presentation (10' + 5' for questions) on a recent research paper on a topic in nucleosynthesis. Please e-mail your preference to janton [at] mpifr.de by May 24. A list of suggested papers is available [here](https://ui.adsabs.harvard.edu/#user/libraries/srWK-pAGTZ-D1fpyllBK3g). Please check the library description to see if a paper has already been chosen. Note that you will need an active account to view the library. 
 If you don't already have an account, you can register [here](https://ui.adsabs.harvard.edu/user/account/register)
 
@@ -94,20 +67,20 @@ If you don't already have an account, you can register [here](https://ui.adsabs.
 
 
 
-| Chapter / Lecture                       |      Lecture Date        | questions by  | Excercise class |
+| Chapter / Lecture                       |      Lecture Date        | -  | Excercise class |
 | -------------                  |  :-------------:    |      :-------------:    |          -----:| 
 | 1: [Introduction](https://uni-bonn.sciebo.de/s/zzsXdZoifwcClcR)                       |      April 23       |  -                   | 
 | 2: [Nuclear Physics Essentials](https://uni-bonn.sciebo.de/s/qr7V8bQO8dcmmDE)                     |      April 30       |  -                   | -
-| 2: [Thermonuclear reactions]     |      April 30       |              April 29|    -  | 
-| 3: [Big-bang nucleosynthesis]	   |    May 7            |              May 6|   May 8 | 
-| 4.1,.2: [Stellar Evolution and H burning]  |    May 14    |              May 13   | May 15  |
-| 4.2: [H-burning (cont.)]|    May 21          |          May 20      | May 22|
-| 4.3: [Helium Burning, advanced burning]|    May 28          |          May 27      | May 29|
-| 5: [s-process]  |    June 4           |          June 3     | June 5 |
-| 5: [r-process, explosive nucleosynthesis]    |    June 11           |            June 10    | June 12 |
-| 6: [Thermonuclear supernovae]   |    June 18          |    June 17  | June 19 |
-| 7: Li, Be, B (*)         |    June 25  | June 24  | June 26 |
-| 8: Galactic chemical evolution    |   July 2  | July 1  | Jule 3  |
+| 2: [Thermonuclear reactions]     |      April 30       |              |    -  | 
+| 3: [Big-bang nucleosynthesis]	   |    May 7            |              |   | 
+| 4.1,.2: [Stellar Evolution and H burning]  |        |                 |   |
+| 4.2: [H-burning (cont.)]|    May 21          |                | |
+| 4.3: [Helium Burning, advanced burning]|    May 28          |                | |
+| 5: [s-process]  |    June 4           |               |  |
+| 5: [r-process, explosive nucleosynthesis]    |    June 11           |                |  |
+| 6: [Thermonuclear supernovae]   |    June 18          |      |  |
+| 7: Li, Be, B (*)         |    June 25  |  |  |
+| 8: Galactic chemical evolution    |   July 2  |  |   |
 | Student presentations  - 1     |    July [TBD]         |         -            | - | 
 | Student presentations  - 2     |    July [TBD]         |        -             | - |
 
