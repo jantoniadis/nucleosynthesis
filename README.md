@@ -71,7 +71,7 @@ If you don't already have an account, you can register [here](https://ui.adsabs.
 | -------------                  |  :-------------:    |      :-------------:    |          -----:| 
 | 1: [Introduction](https://uni-bonn.sciebo.de/s/zzsXdZoifwcClcR)                       |      April 23       |  -                   | 
 | 2: [Nuclear Physics Essentials](https://uni-bonn.sciebo.de/s/qr7V8bQO8dcmmDE)                     |      April 30       |  -                   | -
-| 2: [Thermonuclear reactions]     |      April 30       |              |    -  | 
+| 2: [Thermonuclear reactions](https://uni-bonn.sciebo.de/s/yM8iWr9f4lHz9rQ)     |      April 30       |              |    -  | 
 | 3: [Big-bang nucleosynthesis]	   |    May 7            |              |   | 
 | 4.1,.2: [Stellar Evolution and H burning]  |        |                 |   |
 | 4.2: [H-burning (cont.)]|    May 21          |                | |
