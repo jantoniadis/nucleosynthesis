@@ -70,17 +70,17 @@ If you don't already have an account, you can register [here](https://ui.adsabs.
 | Chapter / Lecture                       |      Lecture Date        | -  | Excercise class |
 | -------------                  |  :-------------:    |      :-------------:    |          -----:| 
 | 1: [Introduction](https://uni-bonn.sciebo.de/s/zzsXdZoifwcClcR)                       |      April 23       |  -                   | 
-| 2: [Nuclear Physics Essentials](https://uni-bonn.sciebo.de/s/qr7V8bQO8dcmmDE)                     |      April 30       |  -                   | -
-| 2: [Thermonuclear reactions](https://uni-bonn.sciebo.de/s/yM8iWr9f4lHz9rQ)     |      April 30       |              |    -  | 
-| 3: [Big-bang nucleosynthesis]	   |    May 7            |              |   | 
+| 2: [Nuclear Physics Essentials](https://uni-bonn.sciebo.de/s/qr7V8bQO8dcmmDE)                     |             |  -                   | -
+| 2: [Thermonuclear reactions](https://uni-bonn.sciebo.de/s/yM8iWr9f4lHz9rQ)     |             |              |    -  | 
+| 3: [Big-bang nucleosynthesis](https://uni-bonn.sciebo.de/s/kW3k03d3BYxiOzt)	   |               |              |   | 
 | 4.1,.2: [Stellar Evolution and H burning]  |        |                 |   |
-| 4.2: [H-burning (cont.)]|    May 21          |                | |
-| 4.3: [Helium Burning, advanced burning]|    May 28          |                | |
+| 4.2: [H-burning (cont.)]|              |                | |
+| 4.3: [Helium Burning, advanced burning]|              |                | |
 | 5: [s-process]  |    June 4           |               |  |
-| 5: [r-process, explosive nucleosynthesis]    |    June 11           |                |  |
-| 6: [Thermonuclear supernovae]   |    June 18          |      |  |
-| 7: Li, Be, B (*)         |    June 25  |  |  |
-| 8: Galactic chemical evolution    |   July 2  |  |   |
+| 5: [r-process, explosive nucleosynthesis]    |               |                |  |
+| 6: [Thermonuclear supernovae]   |              |      |  |
+| 7: Li, Be, B (*)         |      |  |  |
+| 8: Galactic chemical evolution    |     |  |   |
 | Student presentations  - 1     |    July [TBD]         |         -            | - | 
 | Student presentations  - 2     |    July [TBD]         |        -             | - |
 
